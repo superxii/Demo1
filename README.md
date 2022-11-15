@@ -1,2 +1,6 @@
-# Demo1
-Demo on github
+# Name
+# Description
+# Init/Insstall/How to open your project
+# Plugin used and verion
+# Diffuciulties
+# TODO List / Improve 
